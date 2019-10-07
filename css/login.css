@@ -1,0 +1,61 @@
+body{
+	background-image: url('../img/naruto5.jpg');
+}
+h1{
+	position: static;
+	margin-left: 25px;
+}
+
+.loginn{
+	background-color: black;
+	opacity: 0.6;
+	filter: alpha(opacity=30);
+	color: white;
+	text-align: center;
+	padding: 200px;
+	width: 200px;
+	height: 200px;
+    margin: auto; 
+
+
+}
+ul{
+	list-style-type: none;
+
+}
+.btn, .success{
+    border: none;
+    color: white; 
+    padding: 14px 28px; 
+    cursor: pointer;
+    margin-top: 10px; 
+
+}
+.btn,.hal{
+    border: none;
+    color: white; 
+    padding: 14px 28px; 
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+.success{	
+	background-color: #4CAF50;
+} 
+.success:hover {
+	background-color: green;
+}
+.hal {
+    background-color: #f44336;
+}  
+.hal:hover {
+    background: red;
+}
+.a2 a{
+	color: red;
+	margin: auto;
+
+}
+.a2 a:hover {
+	color: white;
+}

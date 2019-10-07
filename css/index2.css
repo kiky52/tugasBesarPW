@@ -1,0 +1,13 @@
+.btn ,.hewan {
+    border: none;
+    color: white; 
+    padding: 8px 24px; 
+    cursor: pointer; 
+}
+
+.hewan {
+    background-color: #2196F3;
+} 
+.hewan:hover {
+    background: #0b7dda;
+}
